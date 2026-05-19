@@ -11,3 +11,5 @@ O projeto se trata de um sistema que gera uma lista de produtos desordenada e as
 ## Execução
 1. Com o terminal aberto, executar "javac App.Java"
 2. Em seguida, executar "java App"
+# Autores
+Sara Machado Silva
